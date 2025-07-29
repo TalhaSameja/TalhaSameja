@@ -30,7 +30,7 @@ I’m passionate about building smart, helpful, and user-friendly applications f
 
 Currently, I'm working as a Prompt Engineer at Colossyan, where I create hyper-realistic AI avatars using cutting-edge AI tools. I also lead a small team, researching and evaluating new AI technologies to push the boundaries of what's possible with digital humans.
 
-Outside of work, I’m a proud cat parent, a big fan of Quentin Tarantino movies, and always looking for the next tech trend to learn. My long-term dream? To become a Computer Architect and help design the next generation of computing systems.
+Outside of work, I'm always looking for the next tech trend to learn. My long-term dream? To become a Computer Architect and help design the next generation of computing systems.
 
 ---
 
@@ -91,7 +91,6 @@ Modern platform for buying and selling properties, built at Focusteck bootcamp.
 ## 💡 Fun Facts
 
 - 🐱 Cat parent and proud of it!
-- 🎬 Tarantino fan & lover of cowboy movies
 - 🌱 Always learning something new in tech
 - 💡 I believe that simple code solves big problems
 
