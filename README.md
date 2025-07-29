@@ -66,25 +66,28 @@ I'm developing a modern Expense Tracker app with the MERN stack as a hands-on le
 
 ## 🛠️ Projects
 
-### **TechNest – E-Commerce Platform**  
+### [TechNest – E-Commerce Platform](https://github.com/TalhaSameja/TechNest)
 A complete online gadget store for mobiles, tablets, and accessories.  
 **Stack:** Django (Python), HTML, CSS, Bootstrap, JavaScript, SQLite  
-**Features:**  
+**Features:**
 - User login/sign-up & profile management  
 - Product search, shopping cart, and reviews  
 - Admin dashboard for orders/users  
 - Secure authentication & password reset  
 - Fully responsive, clean UI
 
-### **Property Listing Website – MERN Stack**  
+---
+
+### [Property Listing Website – MERN Stack](https://github.com/TalhaSameja/property_website)
 Modern platform for buying and selling properties, built at Focusteck bootcamp.  
 **Stack:** MongoDB, Express.js, React, Node.js  
-**Features:**  
+**Features:**
 - Buyer & seller dashboards  
 - Email-based OTP verification on signup  
 - Secure authentication  
 - Google Maps integration for property locations  
 - Responsive design and easy navigation
+
 
 ---
 
