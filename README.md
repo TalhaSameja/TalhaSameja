@@ -20,11 +20,10 @@ I am an SQA Automation Engineer currently working at **Kualitatem**. With a back
 
 ## 🎯 Key Projects & Impact
 
-* **Mediafly (Salesforce Automation):** Built and maintained automation suites for a complex Salesforce-integrated platform. Focused on creating stable, low-maintenance scripts that handle the dynamic nature of Salesforce's UI.
-* **Albaik Mobile App (Performance/Load):** Used **JMeter** to run high-concurrency performance tests. Identified bottlenecks and ensured the platform could handle peak order volumes without crashing or slowing down.
-* **Nayifat (Fintech):** Handled deep-dive manual testing for financial workflows. Managed complex transaction logic and ensured strict data compliance and security standards were met.
+* **Mediafly (Salesforce Automation):** Built and maintained automation suites for a complex Salesforce integrated platform. Focused on creating stable, low maintenance scripts that handle the dynamic nature of Salesforce's UI.
+* **Albaik Mobile App (Performance/Load):** Used **JMeter** to run high concurrency performance tests. Identified bottlenecks and ensured the platform could handle peak order volumes without crashing or slowing down.
+* **Nayifat (Fintech):** Handled deep dive manual testing for financial workflows. Managed complex transaction logic and ensured strict data compliance and security standards were met.
 * **Architecture Refactoring:** Took a legacy framework and converted it into a decoupled, **Cucumber-driven (BDD)** architecture. I integrated a custom reporting engine to give the team instant visibility into failure points.
-* **Technical Scripting (FFmpeg/Bash):** I use FFmpeg for visual regression and batch-processing media files, alongside Bash for automating test data generation and cleaning up environments.
 
 ---
 
